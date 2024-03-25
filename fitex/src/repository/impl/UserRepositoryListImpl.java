@@ -29,7 +29,7 @@ public class UserRepositoryListImpl implements UserRepository {
     }
 
     @Override
-    public void update(int id, User model) {
+    public void update(int id, User user) {
 
     }
 
